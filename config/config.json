@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "fatt-test",
+    "password": "tuhermanaen-4",
+    "database": "fatt-test_db",
+    "host": "mysql-fatt-test.alwaysdata.net",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "fatt-test",
+    "password": "tuhermanaen-4",
+    "database": "fatt-test_db",
+    "host": "mysql-fatt-test.alwaysdata.net",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "fatt-test",
+    "password": "tuhermanaen-4",
+    "database": "fatt-test_db",
+    "host": "mysql-fatt-test.alwaysdata.net",
+    "dialect": "mysql"
+  }
+}
